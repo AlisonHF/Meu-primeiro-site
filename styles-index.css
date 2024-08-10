@@ -1,0 +1,59 @@
+body {
+    font-family: sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: inherit; 
+}
+
+.poster {
+    height: 500px;
+    margin: 30px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+
+.div-post {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+
+.title-movie {
+    color: white;
+    display: block;
+    text-align: center;
+    font-size: 25px;
+    margin-bottom: 5px;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 20px;
+    display: block;          
+    text-align: center;      
+    margin: 0 auto;          
+    width: fit-content;  
+    margin: 20px;
+}
+
+h3 {
+    display: block;          
+    text-align: center;      
+    margin: 0 auto;          
+    width: fit-content;  
+}
+
+.div-movies {
+    border: 1px solid black;
+    margin: 10px;
+    border-radius: 10px;
+    background-color: #212529;
+}
+
+

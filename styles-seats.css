@@ -1,0 +1,51 @@
+body {
+    font-family: sans-serif;
+}
+
+.box {
+    margin: 70px;
+    margin-bottom: 20px;
+    height: 600px;
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: #212529;
+}
+
+.seats {
+    height: 80px;
+    width: 100px;
+    border-radius: 10px;
+    border-color: black;
+    background-color: green;
+    margin: 5px;
+}
+
+.btn-primary:active, .btn-primary.active {
+    background-color: rgb(2, 2, 141);
+    border-color: transparent;     
+}
+
+.button-confirm {
+    margin: 3px;
+    height: 30px;
+    width: 300px;
+    border-radius: 10px;
+    background-color: green;
+    color: white;
+    border-color: transparent;
+    margin-bottom: 20px;
+}
+
+h2 {
+    margin-top: 50px;
+}
+
+.button-empty {
+    height: 80px;
+    width: 100px;
+    border-radius: 10px;
+    background-color: #212529;
+    margin: 5px;
+    border-color: transparent;
+
+}
